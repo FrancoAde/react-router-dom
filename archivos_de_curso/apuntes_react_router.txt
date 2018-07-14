@@ -1,0 +1,12 @@
+REACT ROUTER.
+
+    Los componentes son el corazón del potente modelo de programacion
+    declarativo de REACT.
+
+    React Router es una coleccion de componentes de navegacion que
+    componen declarativamente las rutas de las aplicaciones React.
+
+
+    ROUTES : React Web - React Native - React Core, trabajamos con React Web
+
+
